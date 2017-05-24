@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Sans-serif;
+}
+
+header {
+    background: $template-color;
+    color: #fff;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+    div {
+        margin: 20px;
+    }
+}
+
+article {
+    margin: 15px;
+    text-align: center;
+}
